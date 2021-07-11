@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simplebank/static/css/main.53084d1a.chunk.css",
+    "main.js": "/simplebank/static/js/main.2b982681.chunk.js",
+    "main.js.map": "/simplebank/static/js/main.2b982681.chunk.js.map",
+    "runtime-main.js": "/simplebank/static/js/runtime-main.02757662.js",
+    "runtime-main.js.map": "/simplebank/static/js/runtime-main.02757662.js.map",
+    "static/css/2.847e01e0.chunk.css": "/simplebank/static/css/2.847e01e0.chunk.css",
+    "static/js/2.81f7d211.chunk.js": "/simplebank/static/js/2.81f7d211.chunk.js",
+    "static/js/2.81f7d211.chunk.js.map": "/simplebank/static/js/2.81f7d211.chunk.js.map",
+    "index.html": "/simplebank/index.html",
+    "precache-manifest.9cd51c316f209345d3c762d6469b562c.js": "/simplebank/precache-manifest.9cd51c316f209345d3c762d6469b562c.js",
+    "service-worker.js": "/simplebank/service-worker.js",
+    "static/css/2.847e01e0.chunk.css.map": "/simplebank/static/css/2.847e01e0.chunk.css.map",
+    "static/css/main.53084d1a.chunk.css.map": "/simplebank/static/css/main.53084d1a.chunk.css.map",
+    "static/js/2.81f7d211.chunk.js.LICENSE.txt": "/simplebank/static/js/2.81f7d211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02757662.js",
+    "static/css/2.847e01e0.chunk.css",
+    "static/js/2.81f7d211.chunk.js",
+    "static/css/main.53084d1a.chunk.css",
+    "static/js/main.2b982681.chunk.js"
+  ]
+}
